@@ -1,9 +1,11 @@
 "use client";
 import React, { useState } from "react";
+import { useParams } from "next/navigation";
 import axios from "axios";
 
-export default function signUp({params}:any) {
-  
+export default function profile() {
+    const params= useParams()
+
   return (
     <div className="bg-black text-white flex justify-center items-center flex-col h-screen w-screen">
       <h1 className="text-3xl font-bold mb-4">Profile</h1>
