@@ -15,14 +15,12 @@ The system is composed of several key components, including a backend API built 
 
 1. 🔒 **Secure Authentication**: AuthSystem uses JWT for authentication and authorization, ensuring that only authorized users have access to sensitive data and functionality.
 2. 📈 **Scalable Architecture**: The system is designed to scale horizontally, ensuring that it can handle a large number of users and requests.
-3. 💻 **Responsive Design**: The frontend application is built using React and is fully responsive, ensuring that it works seamlessly across various devices and screen sizes.
-4. 📊 **Database Integration**: The system uses MongoDB as its database, providing a scalable and flexible storage solution.
-5. 🕒 **Session Management**: The system provides a robust session management system, ensuring that users are properly logged in and out.
-6. 📝 **Error Handling**: The system provides robust error handling, ensuring that errors are properly logged and displayed to the user.
-7. 🔒 **Data Encryption**: The system uses encryption to protect sensitive data, ensuring that it remains secure and confidential.
-8. 📈 **Performance Optimization**: The system is optimized for performance, ensuring that it can handle a large number of users and requests without experiencing significant slowdowns.
-9. 👥 **Multi-Language Support**: The system provides support for multiple languages, ensuring that it can be used by users from different regions and cultures.
-10. 📊 **Analytics Integration**: The system provides integration with analytics tools, enabling you to track user behavior and optimize your application accordingly.
+3. 📊 **Database Integration**: The system uses MongoDB as its database, providing a scalable and flexible storage solution.
+4. 🕒 **Session Management**: The system provides a robust session management system, ensuring that users are properly logged in and out.
+5. 📝 **Error Handling**: The system provides robust error handling, ensuring that errors are properly logged and displayed to the user.
+6. 🔒 **Data Encryption**: The system uses encryption to protect sensitive data, ensuring that it remains secure and confidential.
+7. 📈 **Performance Optimization**: The system is optimized for performance, ensuring that it can handle a large number of users and requests without experiencing significant slowdowns.
+8. 📊 **Analytics Integration**: The system provides integration with analytics tools, enabling you to track user behavior and optimize your application accordingly.
 
 **Tech Stack**
 -------------
@@ -32,6 +30,7 @@ The system is composed of several key components, including a backend API built 
 | Frontend | React, Next.js |
 | Backend | Next.js, MongoDB |
 | Database | MongoDB |
+| Dependences | npm i axios bcrypt jsonwebtoken nodemailer react-hot-toast mongoose
 | Security | JSON Web Tokens (JWT) |
 | Deployment | Vercel |
 
