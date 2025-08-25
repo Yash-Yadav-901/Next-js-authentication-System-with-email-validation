@@ -60,7 +60,7 @@ next.config.ts
 **How to Run**
 --------------
 
-1. Clone the repository: `git clone https://github.com/your-username/authsystem.git`
+1. Clone the repository
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Build the application: `npm run build`
