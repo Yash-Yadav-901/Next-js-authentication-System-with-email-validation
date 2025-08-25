@@ -1,4 +1,4 @@
-[🚀 **AuthSystem**: Secure Authentication System with React and Next.js
+🚀 **AuthSystem**: Secure Authentication System with React and Next.js
 ===========================================================
 
 **Tagline**: Building a robust and scalable authentication system for your web applications.
@@ -87,4 +87,5 @@ Yash-Yadav-901
 ---------
 
 AuthSystem is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+](https://github.com/Yash-Yadav-901/Next-js-authentication-System-with-email-validation)
 ](https://github.com/Yash-Yadav-901/Next-js-authentication-System-with-email-validation)
