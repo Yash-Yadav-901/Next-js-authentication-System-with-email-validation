@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import axios from "axios";
 import toast from "react-hot-toast";
+import Link from "next/link";
 
 export default function Login() {
   const router=useRouter();
@@ -63,6 +64,10 @@ export default function Login() {
       <button onClick={handleSubmit} className="bg-green-400 mt-4 p-2 rounded-md">
        {buttonDisabled ? "NoLogin" : "Login"}
       </button>
+
+      <Link href="/EmailForForgetPassword" className="text-blue-500">
+      Forgot Password
+      </Link>
     </div>
   );
 }
