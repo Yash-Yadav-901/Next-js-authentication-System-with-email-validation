@@ -1,6 +1,5 @@
-import { verify } from 'crypto';
 import mongoose from 'mongoose'
-import { type } from 'os'
+
 
 const userSchema= new mongoose.Schema({
     username:{
@@ -33,6 +32,6 @@ const userSchema= new mongoose.Schema({
 
 
 
-const User = mongoose.models.users || mongoose.model("users", userSchema);
+const User = mongoose.models.users || mongoose.model("Users", userSchema);
 
 export default User
