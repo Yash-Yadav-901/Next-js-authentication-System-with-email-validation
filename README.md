@@ -80,7 +80,7 @@ next.config.ts
 **Author**
 -------
 
-Yash-Yadav-901
+Yash Yadav
 
 **License**
 ---------
