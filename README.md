@@ -73,10 +73,6 @@ next.config.ts
 2. Run the tests: `npm run test`
 
 
-
-
-
-
 **Author**
 -------
 
