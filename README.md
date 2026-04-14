@@ -47,12 +47,10 @@ pages/
 public/
 styles/
 utils/
-...
 server/
 api/
 db/
 models/
-...
 package.json
 next.config.ts
 ```
